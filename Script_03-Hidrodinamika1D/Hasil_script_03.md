@@ -4,7 +4,7 @@ Berdasarkan script yang telah dibuat, akan didapat 4 hasil grafik pemodelan hidr
 
 Pembahasan Grafik
 
-Berdasarkan grafik diatas, dapat diketahui bahwa hasil dari pengolahan data pertama adalah grafik perubahan kecepatan arus dalam grid tertentu di sepanjang waktu. Hasil dalam ruang pada elevasi permukaan air dan kecepatan arus keduanya berjalan stabil dengan elevasi dan kecepatan yang sama hingga waktu 150 sekon. Akan tetapi, setelah melewati waktu tersebut, dapat dilihat grafik menjadi tidak stabil. Hal itu dikarenakan adanya gangguan yang berasal dari faktor eksternal, dimana ada beberapa faktor yang tidak sesuai dengan syarat kestabilan. Gangguan tersebut berasal dari kecepatan arus dan gelombang yang dapat mempengaruhi elevasi. Grafik tersebut memiliki interval waktu dari 0-1000 detik yang menunjukkan perubahan kecepatan arus maksimum dan kecepatan arus minimum dalam grid tiap waktunya yaitu di antara -1.5 m/s - 1.5 m/s ke arah sumbu x positif. 
+Berdasarkan grafik diatas, dapat diketahui bahwa hasil dari pengolahan data pertama adalah grafik perubahan kecepatan arus dalam grid tertentu di sepanjang waktu. Hasil dalam ruang pada elevasi permukaan air dan kecepatan arus keduanya berjalan stabil dengan elevasi dan kecepatan yang sama hingga waktu 150 sekon. Akan tetapi, setelah melewati waktu tersebut, dapat dilihat grafik menjadi tidak stabil. Hal itu dikarenakan adanya gangguan yang berasal dari faktor eksternal, dimana ada beberapa faktor yang tidak sesuai dengan syarat kestabilan. Gangguan tersebut berasal dari kecepatan arus dan gelombang yang dapat mempengaruhi elevasi. Grafik tersebut memiliki interval waktu dari 0-600 detik yang menunjukkan perubahan kecepatan arus maksimum dan kecepatan arus minimum dalam grid tiap waktunya yaitu di antara -1.5 m/s - 1.5 m/s ke arah sumbu x positif. 
 
 
 - Grafik Perubahan Elevasi Permukaan Air Dalam Grid Tertentu di Sepanjang Waktu
@@ -12,4 +12,12 @@ Berdasarkan grafik diatas, dapat diketahui bahwa hasil dari pengolahan data pert
 
 Pembahasan Grafik
 
-Berdasarkan grafik diatas, dapat diketahui juga 
+Berdasarkan grafik diatas, dapat diketahui juga hasil dari pengolahan data adalah graifk perubahan elevasi permukaan air dalam grid tertentu di sepanjang waktu. Hasil dalam ruang pada elevasi permukaan air dan kecepatan arusnya juga berjalan stabil dengan elevasi dan kecepatan yang sama hingga waktu 150 sekon. Akan tetapi, setelah melewati waktu tersebut grafik menjadi tidak stabil. Dimana terdapat gangguan dari kecepatan arus dan gelombang yang mempengaruhi elevasi. Dapat dilihat juga bahwa grafik tersebut memiliki interval waktu 0-600 detik yang menunjukkan perubahan elevasi permukaan air dalam grid tiap waktunya yaitu di antara -2 m/s - 2 m/s ke arah sumbu x positif.
+
+
+- Grafik Perubahan Kecepatan Arus Dalam Waktu Tertentu di Sepanjang Grid
+- ![image](https://user-images.githubusercontent.com/105954598/169679301-03e15bd4-c12f-45d4-ba63-4636d8850103.png)
+
+Pembahasan Grafik
+
+Grafik yang dihasilkan adalah grafik perubahan kecepatan arus dalam waktu tersebut di sepanjang waktu. Berdasarkan grafik tersebut, dapat diketahui memiliki interval grid dari 0-50 detik yang menunjukkan perubahan kecepatan arus maksimum dan minimum dalam waktu grid di antara -0.4 m/s - 0.4 m/s ke arah sumbu x positif. Grafik ini juga menunjukkan jarak setiap interval grid dan kecepatan awal arus sangat berhimpitan jika dibandingkan dengan grafik terhadap waktu sebelumnya. Hal tersebut dikarenakan pada setiap waktu kecepatan arus dimulai pada grid yang sama yaitu grid 0. Serta dapat dilihat juga grafik tersebut berjalan dengan stabil. Namun menjadi tidak stabil lagi pada grid 45, karena adanya gangguan dari perubahan kecepatan arus.

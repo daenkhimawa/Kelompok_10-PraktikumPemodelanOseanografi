@@ -16,8 +16,16 @@ Berdasarkan grafik diatas, dapat diketahui juga hasil dari pengolahan data adala
 
 
 - Grafik Perubahan Kecepatan Arus Dalam Waktu Tertentu di Sepanjang Grid
-- ![image](https://user-images.githubusercontent.com/105954598/169679301-03e15bd4-c12f-45d4-ba63-4636d8850103.png)
+![image](https://user-images.githubusercontent.com/105954598/169679301-03e15bd4-c12f-45d4-ba63-4636d8850103.png)
 
 Pembahasan Grafik
 
 Grafik yang dihasilkan adalah grafik perubahan kecepatan arus dalam waktu tersebut di sepanjang waktu. Berdasarkan grafik tersebut, dapat diketahui memiliki interval grid dari 0-50 detik yang menunjukkan perubahan kecepatan arus maksimum dan minimum dalam waktu grid di antara -0.4 m/s - 0.4 m/s ke arah sumbu x positif. Grafik ini juga menunjukkan jarak setiap interval grid dan kecepatan awal arus sangat berhimpitan jika dibandingkan dengan grafik terhadap waktu sebelumnya. Hal tersebut dikarenakan pada setiap waktu kecepatan arus dimulai pada grid yang sama yaitu grid 0. Serta dapat dilihat juga grafik tersebut berjalan dengan stabil. Namun menjadi tidak stabil lagi pada grid 45, karena adanya gangguan dari perubahan kecepatan arus.
+
+
+- Grafik Perubahan Elevasi Muka Air Dalam Waktu Tertentu di Sepanjang Grid
+![image](https://user-images.githubusercontent.com/105954598/169680254-4aa0e433-3ff2-4ab2-8f0f-406cf1159445.png)
+
+Pembahasan Grafik
+
+Grafik yang terakhir dihasilkan grafik perubahan elevasi muka air dalam waktu tertentu di sepanjang grid. Dapat dilihat bahwa grafik tersebut memiliki interval waktu dari 0-50 detik yang menunjukkan perubahan elevasi permukaan air dalam waktu grid di antara -0.6 m/s - 0.4 m/s ke arah sumbu x positif. Diketahui juga grafik elevasi permukaan air hanya bergerak naik turun, dimana gelombang menjalar dapat terlihat dari pergerakan puncak gelombang dan kondisi grid yang stabil. Grafik ini juga menunjukkan jarak setiap interval grid dan kecepatan awal arus yang berhimpitan jika dibandingkan dengan grafik grid terhadap waktu pada grafik 1 dan grafik 2 sebelumnya. Hal tersebut dikarenakan pada setiap waktu kecepatan arus dimulai pada grid yang sama yaitu grid 0 dan dimmulai dari elevasi permukaan air 0.4 m/s.

@@ -59,8 +59,7 @@ for i in range (1, 16):
   line, = ax0.plot(hasilu_np[:,i-1], c=col0, label=f'n={i}')
   ax0.legend()
 
-  ax0.set(xlabel='Waktu', ylabel='Kecepatan Arus', title='''Rayhan Arif Ferdian
-  Perubahan Kecepatan Arus Dalam Grid Tertentu di sepanjang Waktu''')
+  ax0.set(xlabel='Waktu', ylabel='Kecepatan Arus', title='''Kelompok 10_pemodelan''')
   ax0.grid()
 
 fig1, ax1 = plt.subplots(figsize=(12,8))
@@ -70,8 +69,7 @@ for i in range(1, 16):
   ax1.legend()
 
   ax1.set(xlabel='Waktu', ylabel='Elevasi Muka Air', 
-          title='''Rayhan Arif Ferdian_26050120140053
-          Perubahan Elevasi Permukaan Air Dalam Grid Tertentu di sepanjang Waktu''')
+          title='''Kelompok 10_Pemodelan''')
   ax1.grid()
 
 fig2, ax2 = plt.subplots(figsize=(12,8))

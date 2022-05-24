@@ -79,8 +79,7 @@ for i in range(1, 16):
   ax2.legend()
 
   ax2.set(xlabel='Grid', ylabel='Kecepatan Arus', 
-          title='''Rayhan Arif Ferdian 26050120140053
-          Perubahan Kecepatan Arus Dalam Waktu Tertentu di Sepanjang Grid''')
+          title='''Kelompok 10_Pemodelan''')
   ax2.grid()
 
 fig3, ax3 = plt.subplots(figsize=(12,8))
@@ -90,8 +89,7 @@ for i in range(1, 16):
   ax3.legend()
 
   ax3.set(xlabel='Grid', ylabel='Elevasi Muka Air', 
-          title='''Rayhan Arif Ferdian 26050120140053
-          Perubahan Elevasi Muka Air Dalam Waktu Tertentu di Sepanjang Grid''')
+          title='''Kelompok 10_Pemodelan''')
   ax3.grid()
 
 plt.show()

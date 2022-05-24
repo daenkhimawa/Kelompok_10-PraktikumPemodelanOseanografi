@@ -89,7 +89,7 @@ for n in range (0, Nt):
     cbar = plt.colorbar(orientation = 'vertical',shrink = 0.95, extend ='both')
     cbar.set_label(label='concentration', size = 8)
     #plt clim (0,100)
-    plt.title('Dito Pratama_26050120140110 \n t='+str(round(dt*(n+1),3))+', initial condition='+str(ic),fontsize=10)
+    plt.title('Kelompok 10_Pemodelan \n t='+str(round(dt*(n+1),3))+', initial condition='+str(ic),fontsize=10)
     plt.xlabel('x_grid',fontsize=9)
     plt.ylabel('y_grid',fontsize=9)
     plt.axis([0, x, 0, y])

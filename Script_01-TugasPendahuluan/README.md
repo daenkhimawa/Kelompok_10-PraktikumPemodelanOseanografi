@@ -1,3 +1,13 @@
+Panduan Penggunaan Script
+
+Untuk menggunakan script ini diperlukan library python berupa numpy untuk melakukan perhitungan dan matplotlib. Selanjutnya diperlukan data nilai kedalaman, temperatur, dan salinitas dengan format (".txt"). Data tersebut dimasukan dalam script pada bagian:
+f = open (path_data)
+Kemudian terdapat label temperatur, kedalaman, dan salinitas yang dapat diubah nama labelnya apabila diinginkan.
+Pada bagian paling akhir dari script terlihat bahwa script ini akan disimpan di enviroment python di komputer masing-masing dengan nama "Tugas Pendahuluan.jpg" dengan dpi sebesar 300.
+Nama dan dpi dapat diubah apabila diinginkan.
+
+---------------------------------------------------------------------------
+
 Persamaan Adveksi-Difusi atau yang biasa disebut dengan persamaan transport adalah persamaan matematis yang didesain untuk mempelajari fenomena transpor polutan. Persamaan Adveksi-Difusi merupakan salah satu persamaan differensial yang merepresentasikan sirkulasi aliran air di estuari dengan variabel C (Konsentrasi garam) sebagai fungsi ruang dan waktu. Dalam pemodelan matematika sering sekali kita mendapati persamaan-persamaan differensial yang rumit untuk diselesaikan secara analitis. Tetapi dalam menyelesaikan persamaan persamaan differensial ini tidak hanya dilakukan secara analitis, terdapat juga penyelesaian secara numerik. Metode numerik adalah teknik dimana permasalahan matematika diformulasikan sehingga dapat diselesaikan dengan operasi aritmatika dan logika. Perkembangan komputer dengan waktu komputasi yang semakin cepat, membuat pemodelan matematika semakin banyak diminati, dengan penerapan metode-metode numerik yang mempermudah dalam menyelesaikan persamaan-persamaan matematis pada model matematika yang telah dibuat. 
 
 Persamaan Adveksi 1D :

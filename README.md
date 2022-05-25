@@ -22,7 +22,7 @@ Terdapat 4 script yang telah digunakan dalam Praktikum Pemodelan Oseanografi, ya
 3. Script Modul 03 (yang membahas mengenai hidrodinamika 1D)
 4. Script Modul 04 (yang membahas mengenai hidrodinamika 2D)
 
-Setiap script telah dipisakan dalam folder masing-masing dengan isi
+Setiap script telah dipisahkan dalam folder masing-masing dengan isi;
 -Script.py (berisi script python)
 -README.md (berisi panduan penggunaan script yang dipakai)
 -Hasil_Script.md (berisi contoh hasil dan cara analisisnya)

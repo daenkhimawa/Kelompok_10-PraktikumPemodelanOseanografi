@@ -6,7 +6,7 @@ Kelompok 10 Hebat
 
 -Aurelio Gracias Marbun (26050120140136) Ose B
 
--Ayu bla bla___Akun GitHub: windhendra2002
+-Ayu Novianita Winhendra Putri (26050120130044) Ose A___Akun GitHub: windhendra2002
 
 -Daenk Himawa (26050120140127) Ose B___Akun GitHub: daenkhimawa
 

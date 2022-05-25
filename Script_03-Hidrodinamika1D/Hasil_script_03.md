@@ -16,7 +16,7 @@ Berdasarkan grafik diatas, dapat diketahui juga hasil dari pengolahan data adala
 
 
 - Grafik Perubahan Kecepatan Arus Dalam Waktu Tertentu di Sepanjang Grid
-![image](https://user-images.githubusercontent.com/105954598/170166731-a0374697-cbfc-49bb-bbcd-1a0a7c41dbbc.png)
+![image](https://user-images.githubusercontent.com/105954598/170166841-66879580-6cc3-4daf-9b6b-e755d00553c9.png)
 
 Pembahasan Grafik
 

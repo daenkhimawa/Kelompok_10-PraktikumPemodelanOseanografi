@@ -32,3 +32,4 @@ ax2.yaxis.set_visible(False)
 
 plt.tight_layout()
 plt.show()
+fig1.savefig('Tugas Pendahuluan.jpg', dpi=300,  transparent=False)

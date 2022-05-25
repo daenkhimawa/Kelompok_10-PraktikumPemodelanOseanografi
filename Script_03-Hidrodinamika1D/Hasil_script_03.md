@@ -1,6 +1,6 @@
 Berdasarkan script yang telah dibuat, akan didapat 4 hasil grafik pemodelan hidrodinamika 1 dimensi. Adapun contoh grafiknya seperti dibawah ini:
 - Grafik Perubahan Kecepatan Arus Dalam Grid Tertentu di Sepanjang Waktu
-![image](https://user-images.githubusercontent.com/105954598/169678773-0ba03c29-7b5a-4d9e-8eff-d04fb4e72e65.png)
+![image](https://user-images.githubusercontent.com/105954598/170166245-84248f48-e3e6-49b5-add1-64c94fb3e7dc.png)
 
 Pembahasan Grafik
 
@@ -8,7 +8,7 @@ Berdasarkan grafik diatas, dapat diketahui bahwa hasil dari pengolahan data pert
 
 
 - Grafik Perubahan Elevasi Permukaan Air Dalam Grid Tertentu di Sepanjang Waktu
-![image](https://user-images.githubusercontent.com/105954598/169679122-2071983a-b20d-487e-b908-fd43bd1cd200.png)
+![image](https://user-images.githubusercontent.com/105954598/170166599-e62d43d0-9f07-41fd-ab14-da3bd229bc22.png)
 
 Pembahasan Grafik
 
@@ -16,7 +16,7 @@ Berdasarkan grafik diatas, dapat diketahui juga hasil dari pengolahan data adala
 
 
 - Grafik Perubahan Kecepatan Arus Dalam Waktu Tertentu di Sepanjang Grid
-![image](https://user-images.githubusercontent.com/105954598/169679301-03e15bd4-c12f-45d4-ba63-4636d8850103.png)
+![image](https://user-images.githubusercontent.com/105954598/170166731-a0374697-cbfc-49bb-bbcd-1a0a7c41dbbc.png)
 
 Pembahasan Grafik
 
